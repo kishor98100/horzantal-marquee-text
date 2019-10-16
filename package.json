@@ -1,0 +1,22 @@
+{
+  "name": "horizantal-marquee-view",
+  "version": "1.0.0",
+  "description": "Horizantal Marquee Text for react-native",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "horizantal-marquee-view",
+    "react-native-marquee",
+    "marquee-text",
+    "marquee"
+  ],
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/kishor98100/horzantal-marquee-text.git"
+  },
+ 
+  "author": "Kishor Mainali",
+  "license": "MIT"
+}
